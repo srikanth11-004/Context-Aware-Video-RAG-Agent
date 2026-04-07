@@ -1,0 +1,23 @@
+# Core Dependencies - Latest versions compatible with Python 3.14
+langchain
+langchain-community
+langchain-openai
+
+# YouTube Transcript
+youtube-transcript-api
+
+# Embeddings & Vector Store
+sentence-transformers
+chromadb
+
+# LLM
+openai
+google-generativeai
+
+# UI
+streamlit
+streamlit-player
+
+# Utilities
+python-dotenv
+tiktoken
